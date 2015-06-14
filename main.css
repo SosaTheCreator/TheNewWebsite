@@ -1,0 +1,105 @@
+html {
+height: 100%;
+}
+
+body {
+
+  background-image: url("../TheWebsite/images/amanita-muscaria.jpg");
+background-color:white;
+
+height: 100%;
+background-image: cover;
+
+}
+body strong aside h1  {
+font-size: 48}
+
+body strong aside p{
+font-size: 36}
+
+header {
+
+
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 50px;
+margin-top: 0px;
+size: 5%;
+height: 10%;
+background-size: cover;
+color: black;
+}
+
+a {
+color: white;
+text-decoration: none;
+}
+nav ul li{
+display: inline-block;
+list-style-type: none;
+color: white;}
+
+text {
+color: black;
+
+}
+strong {
+font-size: 24}
+
+content {
+color: White;}
+
+
+caption 
+{caption-side: bottom;
+display: table-caption;}
+
+.mainheader img {
+
+width: 10%;
+height: 20%;
+margin: 2%;
+size: 10%;}
+
+.mainheader nav {
+background-color: black;
+height: 40px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;}
+
+.mainheader nav ul li  {
+float: left;
+display: inline;
+padding: 0px 7px;
+color:black;
+
+}
+
+.mainheader nav a:link, .mainheader nav a:visited {
+color: #fff display: inline-block;
+padding: 10px 25 px;
+height: 100%;
+font-size: 24;}
+
+/*come back to assign height */
+/*The below controls the highlight of the mouse over the links */
+
+.mainheader nav a:hover, .mainheader nav a:active, 
+.mainheader nav.active  s:link,.active a:visited {
+background-color: green;
+text-shadow: none;
+}
+
+.mainheader nav ul li a {
+border-radius: 25px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+.mainContent {
+line-height: 25px;
+border-radius: 25px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 25px;
+overflow: hidden;
+}
