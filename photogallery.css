@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+article, aside, figure, footer, header, hgroup, 
+menu, nav, section { display: block}
+
+/* I used div instead of photos and the images floated right */
+
+body div ul li {
+float: right}
+
+photos  {
+width: 1000px;
+margin-left: auto;
+margin-right: auto;}
+
+photos ul {
+list-style-type: none;}
+
+
